@@ -4,6 +4,8 @@
 
 Bem-vindo à Wiki de Instalação e Configuração do NFS no Ubuntu! Este guia abrangente foi criado para ajudá-lo a instalar e configurar o Network File System (NFS) em sistemas operacionais Ubuntu, tanto para servidores quanto para clientes. O NFS é uma solução poderosa para compartilhar arquivos entre computadores em uma rede local, permitindo que diferentes sistemas acessem e modifiquem arquivos de maneira colaborativa e eficiente.
 
+👉 Acesse a [Wiki](https://github.com/IsraelJorge/nfs/wiki) para mais detalhes
+
 ## Objetivo
 
 O principal objetivo desta Wiki é fornecer todas as instruções necessárias para a montagem e operação de duas NFS: um servidor e um cliente. Através deste guia, você aprenderá a instalar os softwares essenciais, configurar os sistemas adequadamente e realizar a análise dos dados obtidos.
